@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LOVE SCENARIO -JP Ver.- (Live)",
+  "base_artist": "iKON",
+  "createdAt": "2026-02-08T12:58:12.277772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE SCENARIO - JP Ver.",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_SCENARIO_-_JP_Ver._iKON.txt"
+    }
+  ]
+}
